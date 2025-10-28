@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-numpy
-librosa
-soundfile
-jinja2
